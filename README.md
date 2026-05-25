@@ -1,2 +1,18 @@
-# excel-dashboard-automation
-Modern Excel dashboard automation project for reporting, reconciliation, KPI tracking and business analytics. Includes settlement processing, SKU profitability analysis, CSV/Excel automation, dynamic dashboards and automated summary generation using Excel, VBA, HTML and JavaScript.
+# Excel Dashboard Automation
+
+This project helps automate:
+
+* KPI dashboard reporting
+* Sales analytics
+* Profitability analysis
+* Reconciliation summaries
+* Excel automation workflows
+
+Tools used:
+
+* Excel
+* VBA
+* HTML
+* JavaScript
+
+Designed for business analytics and dashboard reporting operations.
